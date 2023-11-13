@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Arma
+comment1.params=
+comment1.target=void\ definirAtributosDeArma()
+comment2.params=objetivo
+comment2.target=void\ disparar(Personaje)
+numComments=3

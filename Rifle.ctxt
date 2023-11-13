@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Rifle
+comment1.params=
+comment1.target=void\ definirAtributosDeArma()
+comment2.params=objetivo
+comment2.target=void\ disparar(Personaje)
+comment3.params=probabilidadAcertar\ objetivo
+comment3.target=void\ realizarDisparo(int,\ Personaje)
+comment4.params=
+comment4.target=void\ recargar()
+comment5.params=
+comment5.target=void\ cambiarModoRafaga()
+comment6.params=
+comment6.target=void\ agregarMiraTelescopica()
+comment7.params=
+comment7.target=void\ agregarCompensador()
+comment8.params=
+comment8.target=int\ calcularPrecision()
+numComments=9

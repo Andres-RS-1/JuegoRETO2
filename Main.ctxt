@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=
+comment1.target=Main()
+comment2.params=
+comment2.target=void\ iniciarJuego()
+comment3.params=
+comment3.target=void\ mostrarMenu()
+comment4.params=
+comment4.target=void\ crearPersonaje()
+comment5.params=
+comment5.target=void\ buscarArmas()
+comment6.params=
+comment6.target=void\ seleccionarObjetivo()
+comment7.params=
+comment7.target=void\ enfrentarEnemigo()
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9

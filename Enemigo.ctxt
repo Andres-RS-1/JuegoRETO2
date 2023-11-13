@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Enemigo
+comment1.params=nombre\ nivel
+comment1.target=Enemigo(java.lang.String,\ int)
+comment2.params=jugador
+comment2.target=void\ atacarJugador(Jugador)
+comment3.params=cantidad
+comment3.target=void\ recibirDanio(int)
+comment4.params=
+comment4.target=void\ recargar()
+numComments=5

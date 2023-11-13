@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Francotirador
+comment1.params=nombre\ descripcion\ nivel\ precision\ alcance
+comment1.target=Francotirador(java.lang.String,\ java.lang.String,\ int,\ int,\ int)
+comment2.params=
+comment2.target=int\ getAlcance()
+comment3.params=nuevoAlcance
+comment3.target=void\ setAlcance(int)
+comment4.params=
+comment4.target=void\ disparoPreciso()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

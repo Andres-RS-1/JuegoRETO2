@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Pistola
+comment1.params=
+comment1.target=void\ definirAtributosDeArma()
+comment2.params=objetivo
+comment2.target=void\ disparar(Personaje)
+comment3.params=
+comment3.target=void\ recargar()
+comment4.params=
+comment4.target=void\ cambiarModoDisparo()
+comment5.params=
+comment5.target=void\ agregarSilenciador()
+comment6.params=probabilidadAcertar\ objetivo
+comment6.target=void\ realizarDisparo(int,\ Personaje)
+comment7.params=
+comment7.target=int\ calcularPrecision()
+numComments=8

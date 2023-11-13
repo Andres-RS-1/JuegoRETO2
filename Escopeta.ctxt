@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Escopeta
+comment1.params=
+comment1.target=void\ definirAtributosDeArma()
+comment2.params=objetivo
+comment2.target=void\ disparar(Personaje)
+comment3.params=
+comment3.target=void\ recargar()
+comment4.params=
+comment4.target=void\ cambiarModoCa\u00F1on()
+comment5.params=
+comment5.target=void\ agregarMiraRefleja()
+comment6.params=
+comment6.target=int\ calcularPrecision()
+numComments=7
